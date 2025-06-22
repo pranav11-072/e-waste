@@ -1,0 +1,1 @@
+This project uses machine learning to classify types of e-waste (e.g., Small IT, Large Equipment) based on features like device type, weight, and age. It helps improve recycling efficiency and reduce environmental impact.
